@@ -50,7 +50,7 @@ const Blog = () => {
         React Fundamental Core Concept
         </Typography>
         <Typography variant="body2" color="text.secondary">
-        Discussed about fundamental core concepts of React.
+        Discussed about fundamental core concepts of Node.js.
         </Typography>
       </CardContent>
       <CardActions>
