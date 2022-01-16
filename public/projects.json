@@ -1,0 +1,106 @@
+ [
+    {
+      "id": 1,
+      "name": "Twinkle Stone",
+      "imgGrp":{
+        "img1": "https://i.ibb.co/gwj8tKv/n.jpg",
+      "img2": "https://i.ibb.co/8jk6Bk9/m.jpg",
+      "img3": "https://i.ibb.co/PZkcDxX/l.jpg",
+      "img4": "https://i.ibb.co/QKQkb6Y/k.jpg",
+      "img5": "https://i.ibb.co/cw963fM/j.jpg",
+      "img6": "https://i.ibb.co/Jz2MtL5/i.jpg",
+      "img7": "https://i.ibb.co/Gx97vGD/h.jpg",
+      "img8": "https://i.ibb.co/Jng7zpp/g.jpg",
+      "img10": "https://i.ibb.co/6D8Rkvm/f.jpg",
+      "img11": "https://i.ibb.co/hgdLV6R/e.jpg",
+      "img12": "https://i.ibb.co/Y25Kf2g/d.jpg",
+      "img14": "https://i.ibb.co/SxJwQ5f/c.jpg",
+      "img15": "https://i.ibb.co/yXsdm3B/b.jpg",
+      "img16": "https://i.ibb.co/TkDmkgZ/a.jpg"
+      },
+      "live":"https://jewellary-website.web.app/",
+      "client":"https://github.com/Taniatabassumnoor/jewelry-shop-clientside-website",
+      "server":"https://github.com/Taniatabassumnoor/jewelry-shop-serverside-website",
+      "shortDescription": "\nUsers can register, login or logout from the website\n 2.Users can place order to his/her MyOrder section of the user dashboard.Users can remove order to his/her MyOrder section of the user dashboard\n.Users can add a review to that product that he/she brought.Users have purchased the history analytics section in the user dashboard which is static.\nThere is an admin panel where admin can manage both users and products.Admin can add or remove any product\n.Only admin can make another user admin.Admin can manage products\n.Admin also can change status from pending to approve which will see user as shipped. Admin can cancel order\n.Admin also have sales analytics section in the admin dashboard which is static.Admin have featured info section in the admin dashboard. Product price will calculate automatically.Firebase hoisting\n",
+      "Technology": "React.js, REST API,Redux, React Router, Firebase, Node.js,Express.js,React Bootstrap,React Reveal,Axios,MongoDB, Material UI, Heroku"
+    },
+    {
+      "id": 2,
+      "name": "Trust Medical Center",
+      "imgGrp": {
+        "img1": "https://i.ibb.co/3FjVStS/TM-1.jpg",
+        "img2": "https://i.ibb.co/qjWpg2V/TM-2.jpg",
+        "img3": "https://i.ibb.co/ZGyKmSh/TM-3.jpg",
+        "img4": "https://i.ibb.co/HnfrCZv/TM-4.jpg",
+        "img5": "https://i.ibb.co/kcCRVgv/TM-5.jpg",
+        "img6": "https://i.ibb.co/2868hm9/TM-6.jpg",
+        "img7": "https://i.ibb.co/F65b8b1/TM-7.jpg",
+        "img8": "https://i.ibb.co/NtvhHtz/TM-8.jpg",
+        "img9": "https://i.ibb.co/txTsNMD/TM-9.jpg"
+      },
+      "live":"https://trust-medical-center.web.app/",
+      "client":"https://github.com/Taniatabassumnoor/Trust-Medical-Center",
+      "shortDescription": "\n1.A user can log in with google sign, email/password login , gihub login.\n. 2.After login a user can make book appointment and user name will be displayed to navigation bar\n.3.If user click details button he/she will go details page.4. For individual service have dynamic individual details.\n5. After clicking Make appointment button user will go to appointment form to complete order\n.  6.By default login user email and name will display in appointment form.\n 7. Firebase authentication are used\n8.Hosted by firebase hosting \n ",
+      "Technology": "React.js, React-Bootsrap ,React-hook-form,React-Router-Dom,Firebase"
+    },
+    {
+      "id": 3,
+      "name": "Ora Travel Agency",
+      "imgGrp": {
+        "img1": "https://i.ibb.co/yPJR5wj/OT-1.jpg",
+        "img2": "https://i.ibb.co/2MdxRzT/OT-2.jpg",
+        "img3": "https://i.ibb.co/q5GNs6Z/OT-3.jpg",
+        "img4": "https://i.ibb.co/VSSbW4Q/OT-4.jpg"
+      },
+      "live":"https://travel-and-tourism-8cce5.web.app/",
+      "client":"https://github.com/Taniatabassumnoor/Ora-Travel-Agency",
+      "server":"https://github.com/Taniatabassumnoor/Ora-Travel-Agency-ServerSide",
+      "shortDescription": "\n    1.A user can login with google sign in\n    2.User can choose destination where he/she wants to go and can book holel room\n    3.Hosted by firebase hosting \n    4.Firebase authentication are used\n    ",
+      "Technology": "React, React-bootsrap, Node Js, Express.js,React-hook-form,React-Router-Dom,Firebase,Heroku,MongoDb"
+    },
+    {
+      "id": 4,
+      "name": "Eduford University",
+      "imgGrp": {
+        "img1": "https://i.ibb.co/ZK4KHsy/Edu-1.jpg",
+        "img2": "https://i.ibb.co/mGGn7Lq/Edu-2.jpg",
+        "img3": "https://i.ibb.co/16fYHqf/Edu-3.jpg",
+        "img4": "https://i.ibb.co/N9QjNdT/Edu-4.jpg",
+        "img5": "https://i.ibb.co/NsH3qzD/Edu-5.jpg",
+        "img6": "https://i.ibb.co/YPKbns0/Edu-6.jpg",
+        "img7": "https://i.ibb.co/Ltn8PV2/Edu-7.jpg"
+      },
+      "live":"https://unruffled-ramanujan-a896e5.netlify.app",
+      "client":"https://github.com/Taniatabassumnoor/University-Education-Website",
+      "shortDescription": "\n    1.It is static website\n    2.No user interaction are implement here.\n    3.Here user can see services, contact us and about us section\n    4.Also have FAQ section, contact form\n    5.Hosted by Netlify hosting",
+      "Technology": "React,React-bootstrap,vanila css"
+    },
+    {
+      "id": 5,
+      "name": "Honda Cbr",
+      "imgGrp": {
+        "img1": "https://i.ibb.co/JrX7KbG/HC-1.jpg",
+        "img2": "https://i.ibb.co/HF2jMK4/HC-2.jpg",
+        "img3": "https://i.ibb.co/h9nwJSm/HC-3.jpg",
+        "img4": "https://i.ibb.co/MMPTGBj/HC-4.jpg",
+        "img5": "https://i.ibb.co/rFsJz74/HC-5.jpg"
+      },
+      "live":"https://silly-spence-99a01b.netlify.app",
+      "client":"https://github.com/Taniatabassumnoor/Honda-Website",
+      "shortDescription": "\n    1.It is static website\n    2.Hosted by Netlify\n    3.If user click purchase button he/she will get a modal to contact\n    4.Basically here accordian,modal,slider are used\n    5.User can see service section, offering section, FAQ section, review section,latest collection\n    ",
+      "Technology": "HTML5,Bootstrap,vanila css"
+    },
+    {
+      "id": 6,
+      "name": "Design Hub",
+      "imgGrp": {
+        "img1": "https://i.ibb.co/zXgHCXp/design-Hub.jpg",
+        "img2": "https://i.ibb.co/R45rZC2/DH-1.jpg",
+        "img3": "https://i.ibb.co/xjrtNHG/DH-2.jpg"
+      },
+      "live":"https://mystifying-varahamihira-7d8bfb.netlify.app",
+      "client":"https://github.com/Taniatabassumnoor/Graphic-Designer-Hub",
+      "shortDescription": "\n    1.User can hire Designer in if clicks hire designer button\n    2.After clicking hire designer button, user can see hire details \n    3.In hire details section user can see how much designer added in in cart,total cost, Selected designer name\n    4.Hosted by Netlify\n    ",
+      "Technology": "React.js,React-Boostrap"
+    }
+  ]
