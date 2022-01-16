@@ -30,7 +30,7 @@ const Home = () => {
                     <div>
                     <Link style={{textDecoration:"none",margin:"5%"}} to="/contact">
                     <Button style={{backgroundColor:"salmon",color:"white"}}>Hire Me</Button></Link>
-                        <a style={{textDecoration:"none",margin:"5%"}} href="Tania_Tabassum_Noor_Resume (3).pdf" download="Tania_Tabassum_Noor_Resume (3).pdf"><Button style={{backgroundColor:"salmon",color:"white"}}>Get Resume</Button></a>
+                        <a style={{textDecoration:"none",margin:"5%"}} href="Tania_Tabassum_Noor_Resume (5).pdf" download="Tania_Tabassum_Noor_Resume (5).pdf"><Button style={{backgroundColor:"salmon",color:"white"}}>Get Resume</Button></a>
 
                     </div>
                 </Grid>
