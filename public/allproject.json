@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Twinkle Stone",
-        "shortDescription": "Technology Used React.js, Redux,Bootstrap5,Node.js,Mongodb,Mongoose, Material UI,Heroku",
+        "shortDescription": "Technology Used React.js, REST API,Redux, React Router, Firebase, Node.js,Express.js,React Bootstrap,React Reveal,Axios,MongoDB, Material UI, Heroku",
         "img": "https://i.ibb.co/TkDmkgZ/a.jpg"
     },
     {
